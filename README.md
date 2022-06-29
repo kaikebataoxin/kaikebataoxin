@@ -24,7 +24,7 @@
 <img width="800" src="https://cdn.jsdelivr.net/gh/kaikebataoxin/kaikebataoxin/images/36计.jpeg">
 
 <p></p>
-**issues**中跟帖讨论, 希望大家踊跃**commit**和**star**。
+issues中跟帖讨论, 希望大家踊跃commit和star。
 <p></p>
 电报群：https://t.me/kkbtaoxin 欢迎回家🌺🌺<br>
 访问方式：
