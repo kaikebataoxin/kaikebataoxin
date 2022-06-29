@@ -25,8 +25,8 @@
 <img width="800" src="./images/36计.jpeg">
 
 **issues**中跟帖讨论, 希望大家踊跃**commit**和**star**。
+<br>
 电报群：https://t.me/kkbtaoxin 欢迎回家🌺🌺
 访问方式：
-
 1. https://666yun.men/ 花9块钱买个机场。
 2. 免费参考：https://github.com/freefq/free
